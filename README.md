@@ -1,2 +1,2 @@
 # G-Tuning
-Code is coming soon!
+The code is coming soon!
