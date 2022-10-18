@@ -1,0 +1,7 @@
+{
+    "cls_weight":{"_type":"uniform","_value":[0.5,2]},
+    "rec_weight":{"_type":"uniform","_value":[0.05,5]},
+    "trade_off_head":{"_type":"uniform","_value":[0,2]},
+    "n_factors":{"_type":"choice","_value":[10,15,20,25,30,35]}
+}
+
