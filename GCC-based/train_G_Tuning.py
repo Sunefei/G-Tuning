@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# encoding: utf-8
-# File Name: train_graph_moco.py
-# Author: Jiezhong Qiu
-# Create Time: 2019/12/13 16:44
-# TODO:
-
 import argparse
 import copy
 import os
