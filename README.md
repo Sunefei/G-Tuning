@@ -7,12 +7,12 @@ Hope to present this work smoothly in Vancouver in February, 2024!
 ## Motivation
 We identify the generative patterns of downstream graphs as a crucial aspect in narrowing the gap between pre-training and fine-tuning.
 
-![IntroFig](https://github.com/Sunefei/G-Tuning/figs/intro_all_modified.pdf)
+![IntroFig](./figs/intro_all_modified.pdf)
 
 ## Architecture
 Building upon on our theoretical results, we design the model architecture **G-Tuning** to efficiently reconstruct graphon as generative patterns with rigorous generalization results.
 
-![ModelFig](https://github.com/Sunefei/G-Tuning/figs/model.pdf)
+![ModelFig](./figs/model.pdf)
 
 ## Plug and play
 Our method can be used in any graph pre-training pipelines.
