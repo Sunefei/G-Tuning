@@ -4,6 +4,21 @@ This repo is the implementation of paper “Fine-tuning Graph Neural Networks by
 
 Hope to present this work smoothly in Vancouver in February, 2024!
 
+## Full paper with appendix
+Paper on arXiv [Click Here](https://arxiv.org/abs/2312.13583)
+
+
+## Citation
+
+```latex
+@article{sun2023finetuning,
+  title={Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns},
+  author={Yifei Sun and Qi Zhu and Yang Yang and Chunping Wang and Tianyu Fan and Jiajun Zhu and Lei Chen},
+  booktitle={AAAI},
+  year={2024}
+}
+```
+
 ## Motivation
 We identify the generative patterns of downstream graphs as a crucial aspect in narrowing the gap between pre-training and fine-tuning.
 
