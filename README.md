@@ -37,8 +37,6 @@ Specifically, our implementation is split into two-parts: GCC-based and Mole-bas
 ## Status
 Now we have updated our model on GCC version, namely the Table 2 in our paper. 
 
-**More code and appendix** will be uploaded within this month. Our full paper will be released on arXiv soon. :)
-
 ## Contact
 If you have any question about the code or the paper, feel free to contact me through [email](mailto:yifeisun@zju.edu.cn).
 
